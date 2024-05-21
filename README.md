@@ -8,15 +8,10 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -36,10 +31,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/njeruthuo/Advice-generator-app](https://github.com/njeruthuo/Advice-generator-app)
+- Live Site URL: [https://advice-generator-app-coral-sigma.vercel.app/](https://advice-generator-app-coral-sigma.vercel.app/)
 
-## My process
 
 ### Built with
 
