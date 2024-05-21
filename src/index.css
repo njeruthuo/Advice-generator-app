@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+* {
+  font-family: "Manrope", sans-serif;
+}
+
+.quote {
+  font-size: 28px;
+}
+
+h1 {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Assuming bg-NeonGreen defines a color variable or class */
+/* .bg-NeonGreen {
+  background-color: #39FF14; 
+} */
+
+.hover-glow:hover {
+  box-shadow: 0 0 15px 5px #39ff14;
+}
+
+.neon {
+  --tw-bg-opacity: 1;
+  background-color: hsl(150 100% 66% / 1);
+}
