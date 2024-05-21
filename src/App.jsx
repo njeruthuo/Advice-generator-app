@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="bg-DarkBlue min-h-screen flex justify-center items-center">
-      <div className="sm:w-1/3 w-4/5 bg-DarkGrayishBlue rounded-lg text-center p-4 sm:p-8">
+      <div className="sm:w-1/3 w-[90%] bg-DarkGrayishBlue rounded-lg text-center p-4 sm:p-8">
         <h1 className="text-NeonGreen text-xs font-bold">Advice #{advice.id}</h1>
         <p className="quote font-extrabold text-LightCyan my-6">
           {advice.advice}
@@ -38,7 +38,7 @@ const App = () => {
           <img className="block sm:hidden" src={mobile} alt="" />
         </div>
 
-        <div id="dice" className="flex justify-center -mb-10 sm:-mb-14 mt-8">
+        <div id="dice" className="flex justify-center -mb-10 sm:-mb-14 mt-12">
           <button
             onClick={handleDiceClick}
             className="bg-NeonGreen border-none p-4 rounded-full hover:cursor-pointer hover:shadow-neon-green"
